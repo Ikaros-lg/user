@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+odindesignthemes.com	TRUE	/vikinger-theme/	FALSE	1999999999	pmpro_visit	1
+odindesignthemes.com	TRUE	/vikinger-theme/	FALSE	1999999999	woocommerce_items_in_cart	1
+odindesignthemes.com	TRUE	/vikinger-theme/	FALSE	1999999999	wp_woocommerce_session_805614efa185f6cf1e0d2e96c8825014	32111a856cb98efcb6802119c4ea8a1e%7C%7C1641827601%7C%7C1641824001%7C%7Cd306514a59ba35aee1e8fc56e9db904a
+odindesignthemes.com	TRUE	/vikinger-theme/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+odindesignthemes.com	TRUE	/vikinger-theme/	FALSE	1999999999	woocommerce_cart_hash	ff94758734336e0693c597f63379a195
+

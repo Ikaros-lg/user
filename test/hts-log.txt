@@ -1,0 +1,199 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Jan 2022 22:10:17 at https://odindesignthemes.com/vikinger-theme/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://odindesignthemes.com/vikinger-theme/ -O1 "C:\My Web Sites\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:10:18	Warning: 	File not parsed, looks like binary: https://odindesignthemes.com/robots.txt
+22:12:01	Error: 	"Bad Request" (400) at link https://odindesignthemes.com/vikinger-theme/wp-admin/admin-ajax.php (from https://odindesignthemes.com/vikinger-theme/)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/01.jpg (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/02.jpg (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/03.jpg (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/04.jpg (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/01-big.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/02-big.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/03-big.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/04-big.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/05-big.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/06-big.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/banner/banner-profile-stats.jpg (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/banner/banner-reaction.jpg (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/banner/banner-commenter.jpg (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/achievement/banner/01.jpg (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/achievement/banner/02.jpg (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/badge/level-badge.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/07.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/08.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/09.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/img/graph/stat/10.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/img/landing/landing-background.jpg (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/img/landing/dot-texture.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/img/marketplace/category/01.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/img/marketplace/category/02.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/img/marketplace/category/03.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:45	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-content/themes/img/marketplace/category/04.png (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/style.css?ver=3.9.0)
+22:12:46	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=892
+22:12:46	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=892 to https://odindesignthemes.com/vikinger-theme/testimonials/
+22:12:46	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=6
+22:12:46	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=6 to https://odindesignthemes.com/vikinger-theme/activity/
+22:12:46	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-json/oembed/1.0/embed?url (from https://odindesignthemes.com/vikinger-theme/activity/)
+22:12:46	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-json/oembed/1.0/embed?url&format=xml (from https://odindesignthemes.com/vikinger-theme/activity/)
+22:15:22	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/checkout/
+22:15:22	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/checkout/ to https://odindesignthemes.com/vikinger-theme/cart/
+22:16:05	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/Trident/ (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/js/vendor/swiper.min.js?ver=1.0.0)
+22:16:05	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/Edge/ (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/js/vendor/swiper.min.js?ver=1.0.0)
+22:16:05	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/Gecko/ (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/js/vendor/swiper.min.js?ver=1.0.0)
+22:16:05	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/Firefox/ (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/js/vendor/swiper.min.js?ver=1.0.0)
+22:16:05	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/Version/ (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/js/vendor/swiper.min.js?ver=1.0.0)
+22:16:05	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/version/ (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/js/vendor/swiper.min.js?ver=1.0.0)
+22:17:07	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/progressbar.js (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/js/app.bundle.min.js?ver=3.9.0)
+22:17:07	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/buddypress/v1/groups/ (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/js/app.bundle.min.js?ver=3.9.0)
+22:17:07	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/buddypress/v1/members/ (from https://odindesignthemes.com/vikinger-theme/wp-content/themes/vikinger/js/app.bundle.min.js?ver=3.9.0)
+22:17:07	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/-negative.svg (from https://odindesignthemes.com/vikinger-theme/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.1)
+22:17:07	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/OPR/ (from https://odindesignthemes.com/vikinger-theme/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.1)
+22:17:07	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=7
+22:17:07	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=7 to https://odindesignthemes.com/vikinger-theme/members/
+22:17:07	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=24
+22:17:07	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=24 to https://odindesignthemes.com/vikinger-theme/groups/
+22:17:07	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=200
+22:17:07	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=200 to https://odindesignthemes.com/vikinger-theme/badges/
+22:17:34	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=202
+22:17:34	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=202 to https://odindesignthemes.com/vikinger-theme/quests/
+22:17:34	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=206
+22:17:34	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=206 to https://odindesignthemes.com/vikinger-theme/ranks/
+22:17:34	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=204
+22:17:34	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=204 to https://odindesignthemes.com/vikinger-theme/credits/
+22:17:50	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/forums/forum/live-streamers-unite/
+22:17:50	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/forums/forum/live-streamers-unite/ to https://odindesignthemes.com/vikinger-theme/forums/?noaccess=1
+22:17:50	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/forums/topic/post-your-stream-pages-here/
+22:17:50	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/forums/topic/post-your-stream-pages-here/ to https://odindesignthemes.com/vikinger-theme/forums/?noaccess=1
+22:19:18	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=985
+22:19:18	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=985 to https://odindesignthemes.com/vikinger-theme/membership-account/membership-levels/
+22:19:20	Error: 	"Not Found" (404) at link https://odindesignthemes.com/vikinger-theme/wp-json/wp/v2/pages/0 (from https://odindesignthemes.com/vikinger-theme/members/odindesign-themes/)
+22:19:29	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=578
+22:19:29	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=578 to https://odindesignthemes.com/vikinger-theme/forums/forum/animation-watchtower/
+22:19:35	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=591
+22:19:35	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=591 to https://odindesignthemes.com/vikinger-theme/forums/topic/lets-discuss-the-current-state-of-the-comics-cinematic-universe/
+22:19:41	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/groups/cosplayers-of-the-world/home/
+22:19:41	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/groups/cosplayers-of-the-world/home/ to https://odindesignthemes.com/vikinger-theme/groups/cosplayers-of-the-world/
+22:19:43	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=174
+22:19:43	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=174 to https://odindesignthemes.com/vikinger-theme/landing/
+22:19:43	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/groups/gaming-watchtower/feed/
+22:19:43	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/groups/gaming-watchtower/feed/ to https://odindesignthemes.com/vikinger-theme/wp-login.php?redirect_to=https%3A%2F%2Fodindesignthemes.com%2Fvikinger-theme%2Fgroups%2Fgaming-watchtower%2Ffeed%2F&bp-auth=1&action=bpnoaccess
+22:19:43	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=660
+22:19:43	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=660 to https://odindesignthemes.com/vikinger-theme/cart/
+22:20:22	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/groups/street-artists/home/
+22:20:22	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/groups/street-artists/home/ to https://odindesignthemes.com/vikinger-theme/groups/street-artists/
+22:20:22	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/groups/stream-designers/home/
+22:20:22	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/groups/stream-designers/home/ to https://odindesignthemes.com/vikinger-theme/groups/stream-designers/
+22:20:22	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/groups/living-in-japan/home/
+22:20:22	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/groups/living-in-japan/home/ to https://odindesignthemes.com/vikinger-theme/groups/living-in-japan/
+22:21:00	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=236
+22:21:00	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=236 to https://odindesignthemes.com/vikinger-theme/exclusive-check-out-all-the-new-missions-and-story-of-the-fire-witch-dlc/
+22:21:10	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=564
+22:21:10	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=564 to https://odindesignthemes.com/vikinger-theme/forums/forum/community-hangout/
+22:21:10	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=600
+22:21:10	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=600 to https://odindesignthemes.com/vikinger-theme/forums/topic/whats-your-favorite-food-in-the-world/
+22:21:12	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=574
+22:21:12	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=574 to https://odindesignthemes.com/vikinger-theme/forums/forum/the-arcade/
+22:21:12	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=604
+22:21:12	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=604 to https://odindesignthemes.com/vikinger-theme/forums/topic/does-anyone-know-how-to-capture-mewthree/
+22:21:15	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=576
+22:21:15	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=576 to https://odindesignthemes.com/vikinger-theme/forums/forum/cosplayers-of-the-world/
+22:21:15	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=599
+22:21:15	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=599 to https://odindesignthemes.com/vikinger-theme/forums/topic/introduce-yourself-and-show-us-your-cosplays/
+22:21:16	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=582
+22:21:16	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=582 to https://odindesignthemes.com/vikinger-theme/forums/forum/animation-watchtower/anime-manga/
+22:21:16	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=580
+22:21:16	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=580 to https://odindesignthemes.com/vikinger-theme/forums/forum/animation-watchtower/comics/
+22:21:16	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=589
+22:21:16	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=589 to https://odindesignthemes.com/vikinger-theme/forums/forum/the-jukebox/
+22:21:19	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=672
+22:21:19	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=672 to https://odindesignthemes.com/vikinger-theme/product/crazy-bunny-mug/
+22:21:20	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=2dea61eed4bceec564a00115c4d21334&_wpnonce=95a32daf47
+22:21:20	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=2dea61eed4bceec564a00115c4d21334&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:20	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=681
+22:21:20	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=681 to https://odindesignthemes.com/vikinger-theme/product/devil-pin-coffee-mug/
+22:21:22	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=1595af6435015c77a7149e92a551338e&_wpnonce=95a32daf47
+22:21:22	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=1595af6435015c77a7149e92a551338e&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:22	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=680
+22:21:22	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=680 to https://odindesignthemes.com/vikinger-theme/product/universal-vkg-artwork/
+22:21:26	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=fccb3cdc9acc14a6e70a12f74560c026&_wpnonce=95a32daf47
+22:21:26	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=fccb3cdc9acc14a6e70a12f74560c026&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:26	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=690
+22:21:26	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=690 to https://odindesignthemes.com/vikinger-theme/product/universal-vkg-artwork-v2/
+22:21:26	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=c06d06da9666a219db15cf575aff2824&_wpnonce=95a32daf47
+22:21:26	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=c06d06da9666a219db15cf575aff2824&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:26	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=663
+22:21:26	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=663 to https://odindesignthemes.com/vikinger-theme/product/vikinger-coffee-mug/
+22:21:27	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=687
+22:21:27	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=687 to https://odindesignthemes.com/vikinger-theme/product/vikinger-dual-hoodie/
+22:21:29	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=7f5d04d189dfb634e6a85bb9d9adf21e&_wpnonce=95a32daf47
+22:21:29	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=7f5d04d189dfb634e6a85bb9d9adf21e&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:29	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=688
+22:21:29	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=688 to https://odindesignthemes.com/vikinger-theme/product/vikinger-ennamel-cup/
+22:21:31	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=f79921bbae40a577928b76d2fc3edc2a&_wpnonce=95a32daf47
+22:21:31	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=f79921bbae40a577928b76d2fc3edc2a&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:31	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=678
+22:21:31	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=678 to https://odindesignthemes.com/vikinger-theme/product/vikinger-mens-t-shirt/
+22:21:34	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=9fe8593a8a330607d76796b35c64c600&_wpnonce=95a32daf47
+22:21:34	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=9fe8593a8a330607d76796b35c64c600&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:34	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=675
+22:21:34	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=675 to https://odindesignthemes.com/vikinger-theme/product/vikinger-snapback-cap/
+22:21:36	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=8fecb20817b3847419bb3de39a609afe&_wpnonce=95a32daf47
+22:21:36	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=8fecb20817b3847419bb3de39a609afe&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:36	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=679
+22:21:36	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=679 to https://odindesignthemes.com/vikinger-theme/product/vikinger-snapback-cap-v2/
+22:21:38	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=ca9c267dad0305d1a6308d2a0cf1c39c&_wpnonce=95a32daf47
+22:21:38	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=ca9c267dad0305d1a6308d2a0cf1c39c&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:38	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=691
+22:21:38	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=691 to https://odindesignthemes.com/vikinger-theme/product/vikinger-tote-bag/
+22:21:40	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=10a5ab2db37feedfdeaab192ead4ac0e&_wpnonce=95a32daf47
+22:21:40	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=10a5ab2db37feedfdeaab192ead4ac0e&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:40	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=689
+22:21:40	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=689 to https://odindesignthemes.com/vikinger-theme/product/vikinger-womans-t-shirt/
+22:21:40	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?remove_item=07a96b1f61097ccb54be14d6a47439b0&_wpnonce=95a32daf47
+22:21:40	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?remove_item=07a96b1f61097ccb54be14d6a47439b0&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:21:40	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=603
+22:21:40	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=603 to https://odindesignthemes.com/vikinger-theme/forums/topic/dragon-fantasy-chapter-26-dicussion/
+22:23:57	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=602
+22:23:57	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=602 to https://odindesignthemes.com/vikinger-theme/forums/topic/this-is-the-first-image-of-the-new-multiverse-movie/
+22:24:01	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=601
+22:24:01	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=601 to https://odindesignthemes.com/vikinger-theme/forums/topic/come-and-discuss-that-new-power-x-transformation/
+22:24:03	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=595
+22:24:03	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=595 to https://odindesignthemes.com/vikinger-theme/forums/topic/post-your-legend-of-fantasy-custom-character-photo/
+22:24:05	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=593
+22:24:05	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=593 to https://odindesignthemes.com/vikinger-theme/forums/topic/welcome-to-the-vikinger-forums-rules/
+22:24:32	Warning: 	Moved Permanently for https://odindesignthemes.com/vikinger-theme/?p=512
+22:24:32	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/?p=512 to https://odindesignthemes.com/vikinger-theme/heres-the-x-mas-gamer-box-from-powerstation-and-it-packs-some-surpirses/
+22:24:35	Warning: 	Moved Permanently for odindesignthemes.com/robots.txt
+22:24:35	Warning: 	Redirected link is identical because of 'URL Hack' option: odindesignthemes.com/robots.txt and https://odindesignthemes.com/robots.txt
+22:24:35	Warning: 	Warning moved treated for odindesignthemes.com/robots.txt (real one is https://odindesignthemes.com/robots.txt)
+22:24:35	Warning: 	Moved Permanently for odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:24:35	Warning: 	Redirected link is identical because of 'URL Hack' option: odindesignthemes.com/vikinger-theme/shop/?removed_item=1 and https://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:24:35	Warning: 	File has moved from odindesignthemes.com/vikinger-theme/shop/?removed_item=1 to https://odindesignthemes.com/vikinger-theme/shop/?removed_item=1
+22:24:35	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?undo_item=2dea61eed4bceec564a00115c4d21334&_wpnonce=95a32daf47
+22:24:35	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?undo_item=2dea61eed4bceec564a00115c4d21334&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/product-tag/coffee/
+22:24:35	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?undo_item=1595af6435015c77a7149e92a551338e&_wpnonce=95a32daf47
+22:24:35	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?undo_item=1595af6435015c77a7149e92a551338e&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/product-tag/art/
+22:24:35	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?undo_item=c06d06da9666a219db15cf575aff2824&_wpnonce=95a32daf47
+22:24:35	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?undo_item=c06d06da9666a219db15cf575aff2824&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/product-tag/vikinger/
+22:24:35	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?undo_item=7f5d04d189dfb634e6a85bb9d9adf21e&_wpnonce=95a32daf47
+22:24:35	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?undo_item=7f5d04d189dfb634e6a85bb9d9adf21e&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/product-tag/cup/
+22:24:35	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?undo_item=f79921bbae40a577928b76d2fc3edc2a&_wpnonce=95a32daf47
+22:24:35	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?undo_item=f79921bbae40a577928b76d2fc3edc2a&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/product-tag/clothing/
+22:24:36	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?undo_item=9fe8593a8a330607d76796b35c64c600&_wpnonce=95a32daf47
+22:24:36	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?undo_item=9fe8593a8a330607d76796b35c64c600&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/product-tag/cap/
+22:24:36	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?undo_item=8fecb20817b3847419bb3de39a609afe&_wpnonce=95a32daf47
+22:24:36	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?undo_item=8fecb20817b3847419bb3de39a609afe&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/product/vikinger-snapback-cap-v2/?add-to-cart=687
+22:24:36	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?undo_item=ca9c267dad0305d1a6308d2a0cf1c39c&_wpnonce=95a32daf47
+22:24:36	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?undo_item=ca9c267dad0305d1a6308d2a0cf1c39c&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/product-tag/bag/
+22:24:36	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?undo_item=10a5ab2db37feedfdeaab192ead4ac0e&_wpnonce=95a32daf47
+22:24:36	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?undo_item=10a5ab2db37feedfdeaab192ead4ac0e&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/product/vikinger-womans-t-shirt/?add-to-cart=675
+22:24:36	Warning: 	Found for https://odindesignthemes.com/vikinger-theme/cart/?undo_item=07a96b1f61097ccb54be14d6a47439b0&_wpnonce=95a32daf47
+22:24:36	Warning: 	File has moved from https://odindesignthemes.com/vikinger-theme/cart/?undo_item=07a96b1f61097ccb54be14d6a47439b0&_wpnonce=95a32daf47 to http://odindesignthemes.com/vikinger-theme/product-tag/bunny/?add-to-cart=672
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 19 seconds : 1093 links scanned, 979 files written (70498028 bytes overall) [22329094 bytes received at 25994 bytes/sec], 64624119 bytes transferred using HTTP compression in 836 files, ratio 16%, 37.8 requests per connection
+(41 errors, 147 warnings, 0 messages)
